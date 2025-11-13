@@ -1,0 +1,27 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+.box{
+    border: 2px solid black;
+    width:600px;
+    height:100px;
+    margin:2px;
+}
+
+.box1{
+ background-color: rgb(132, 255, 255);   
+}
+.box2{
+ background-color: rgb(150, 171, 255);   
+}
+.box3{
+ background-color: rgb(147, 255, 185);   
+}
+.box4{
+ background-color: rgb(255, 171, 255);   
+}
+.box5{
+ background-color: rgb(255, 245, 131);   
+}
